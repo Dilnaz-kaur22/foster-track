@@ -18,7 +18,7 @@
 }
 
 html {
-  font-family: Inter, Lato, Arial, sans-serif;
+  font-family: "Trirong" , serif;
   font-size: 100%;
   font-weight: 400;
   height: 100%;
@@ -32,6 +32,11 @@ html {
 
 body {
   height: 100%;
+  background-color: #f0f4f6;
+}
+
+::-webkit-scrollbar{
+  width: thin;
 }
 
 ul, ol {
